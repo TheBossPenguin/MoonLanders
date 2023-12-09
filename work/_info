@@ -1,0 +1,339 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//VSRV2/D.Homes$$/howai13/Downloads/Moon Landers
+vasteroid
+!s110 1701736818
+!i10b 1
+!s100 `NnXE_MZk8KWMV:QVeIUK3
+I@1cVK1QbSnGReY<YI1j5U0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701582381
+8asteroid.v
+Fasteroid.v
+Z2 L0 39
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1701736818.000000
+!s107 asteroid.v|
+!s90 -reportprogress|300|asteroid.v|
+!i113 1
+Z4 tCvgOpt 0
+vasteroidsPosition
+Z5 !s110 1701799658
+!i10b 1
+!s100 Jz75FI42Uf_bj6oa]AF1[1
+I10Eme2nM`kTiR6EKnXUSC1
+R1
+R0
+Z6 w1701781659
+Z7 8asteroidsPosition.v
+Z8 FasteroidsPosition.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1701799657.000000
+Z10 !s107 asteroidsPosition.v|
+Z11 !s90 -reportprogress|300|asteroidsPosition.v|
+!i113 1
+R4
+nasteroids@position
+vcollisions
+!s110 1701795990
+!i10b 1
+!s100 Okooa^i^zM<YT8zchk@gA2
+Ia33]LOAV7mX`]eh<?K`A33
+R1
+R0
+w1701781657
+8collisions.v
+Fcollisions.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701795989.000000
+!s107 collisions.v|
+!s90 -reportprogress|300|collisions.v|
+!i113 1
+R4
+vdrawBackground
+!s110 1701793223
+!i10b 1
+!s100 2@V9kY>EnQm^PhOFVRQ1z3
+ITaCMj;k[@LnF[nVhi@R8J2
+R1
+R0
+w1701790359
+8drawBackground.v
+FdrawBackground.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1701793223.000000
+!s107 drawBackground.v|
+!s90 -reportprogress|300|drawBackground.v|
+!i113 1
+R4
+ndraw@background
+vdrawBox
+!s110 1701795408
+!i10b 1
+!s100 I^ihaIOLI<6_>1663f>V>1
+IT5aP1Ok[dne8zYaD]Gzfe2
+R1
+R0
+w1701795239
+8drawBox.v
+FdrawBox.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1701795407.000000
+!s107 drawBox.v|
+!s90 -reportprogress|300|drawBox.v|
+!i113 1
+R4
+ndraw@box
+vdrawControl
+!s110 1701795473
+!i10b 1
+!s100 ;c=8FjN_zW^l8BmBlWE?n3
+I8z`_:ODR8g^60?RT<8EPz0
+R1
+R0
+w1701793546
+8drawControl.v
+FdrawControl.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1701795472.000000
+!s107 drawControl.v|
+!s90 -reportprogress|300|drawControl.v|
+!i113 1
+R4
+ndraw@control
+vlevel1
+!s110 1701736981
+!i10b 1
+!s100 0A7YSE>eNPO3P?`>IVCU41
+IDAX;XLBe6dYchdn:`I0V51
+R1
+R0
+w1701625069
+8level1.v
+Flevel1.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701736981.000000
+!s107 level1.v|
+!s90 -reportprogress|300|level1.v|
+!i113 1
+R4
+vlevel2
+!s110 1701736907
+!i10b 1
+!s100 e2zl_NLH9Q[kfNNH@]QhT3
+II0S70[l;Q3VFNz_2koOc^2
+R1
+R0
+w1701625259
+8level2.v
+Flevel2.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701736907.000000
+!s107 level2.v|
+!s90 -reportprogress|300|level2.v|
+!i113 1
+R4
+vlevel3
+!s110 1701736937
+!i10b 1
+!s100 DzJnjH3>j8I[o4BjzDToQ2
+IOJoU6RoMk`]RDCP=SBE^H3
+R1
+R0
+w1701625292
+8level3.v
+Flevel3.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1701736937.000000
+!s107 level3.v|
+!s90 -reportprogress|300|level3.v|
+!i113 1
+R4
+vlevelsControl
+!s110 1701793792
+!i10b 1
+!s100 DC1egU6f5O]KXaHL8UI4R0
+Ij^n6g7?fUfGFZL@AjbD=a3
+R1
+R0
+w1701785808
+8levelsControl.v
+FlevelsControl.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1701793792.000000
+!s107 levelsControl.v|
+!s90 -reportprogress|300|levelsControl.v|
+!i113 1
+R4
+nlevels@control
+vmain
+!s110 1701795873
+!i10b 1
+!s100 0O[o7RTU=57jAzOhNDmzn0
+IZn8W;B_@^h5<RV2zmXzLP1
+R1
+R0
+w1701795760
+Z12 8simulation.v
+Z13 Fsimulation.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701795873.000000
+Z14 !s107 simulation.v|
+Z15 !s90 -reportprogress|300|simulation.v|
+!i113 1
+R4
+vrateDividerX
+R5
+!i10b 1
+!s100 16am;b^o?UcG_oWEgeT0J3
+I4KVF9cl8<ZEM=BE:>:lbU3
+R1
+R0
+R6
+R7
+R8
+L0 143
+R3
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R4
+nrate@divider@x
+vrateDividerY
+Z16 !s110 1701794385
+!i10b 1
+!s100 [^ZZY_d=@Xb5jn6lgdzjL0
+I4?IbBH4?D4]h;1fAmAUdi3
+R1
+R0
+Z17 w1701781656
+Z18 8rocketPosition.v
+Z19 FrocketPosition.v
+L0 51
+R3
+r1
+!s85 0
+31
+Z20 !s108 1701794385.000000
+Z21 !s107 rocketPosition.v|
+Z22 !s90 -reportprogress|300|rocketPosition.v|
+!i113 1
+R4
+nrate@divider@y
+vrocketControl
+!s110 1701794378
+!i10b 1
+!s100 a`R=Hi2mGhoX_6a:Tja<P2
+I0i7C^mYS>edHmAn1OThQj2
+R1
+R0
+w1701794246
+8rocketControl.v
+FrocketControl.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1701794378.000000
+!s107 rocketControl.v|
+!s90 -reportprogress|300|rocketControl.v|
+!i113 1
+R4
+nrocket@control
+vrocketPosition
+R16
+!i10b 1
+!s100 `Td@f<PS[CDYJW47CLTQe0
+IWPcVXT?nJ?8>eoTDIYc]W3
+R1
+R0
+R17
+R18
+R19
+L0 3
+R3
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R4
+nrocket@position
+vsimulation
+!s110 1701777562
+!i10b 1
+!s100 M]_R@7>U`J;O4c@ch8G`?2
+I97]?]FkNzDPh808L11=a23
+R1
+R0
+w1701776448
+R12
+R13
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1701777561.000000
+R14
+R15
+!i113 1
+R4
